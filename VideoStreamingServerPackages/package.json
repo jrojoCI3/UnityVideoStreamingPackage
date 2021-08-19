@@ -5,7 +5,7 @@
     "unity": "2018.4",
     "description": "Wraps native platform APIs for performing H.264 encoding and RTP streaming.",
     "dependencies": {
-      "com.unity.collections": "0.0.9-preview12"
+      "com.unity.collections": "0.0.9-preview.12"
     },
     "keywords": [
       "unity",
